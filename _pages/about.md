@@ -54,4 +54,5 @@ I work as a Quantitative analyst at [CRISIL](https://www.crisil.com/en/home/our-
 
 Before joining CRISIL I have studied Physics at University of Buenos Aires. I have also studied Finance at University of San Andres.
 
+I have strong background in problem modelling, statistics and data analysis, numerical techniques and programming.
 
