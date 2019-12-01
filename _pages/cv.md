@@ -17,21 +17,21 @@ Education
 
 Work experience
 ======
-* CRISIL, Quantitative Analyst, January 2018-Present
-  * Price and risk management of Equity and Hybrid exotic financial derivatives.
-  * Execution of calibration, benchmarking, computational performance, hedging, limiting cases, stability,
-convergence tests and stress testing.
-  * Responsible for technical documentation and executive summary report.
-  * Development of software for pricing financial derivatives. 
+* CRISIL, Quantitative Analyst, January 2018-Present:
+  * Price and risk management of Equity and Hybrid exotic financial derivatives
+  * Execution of calibration, benchmarking, computational performance, hedging, limiting cases, stability
+convergence tests and stress testing
+  * Responsible for technical documentation and executive summary report
+  * Development of software for pricing financial derivatives.
 
   
 Personal skills
 ======
-* Initiative and leadership in research and development projects.
-* Analytical and critical reasoning.
-* Inventiveness and strong problem-solving ability. 
-* Excellent teamwork skills.
-* Communication and interpersonal skills.
+* Initiative and leadership in research and development projects
+* Analytical and critical reasoning
+* Inventiveness and strong problem-solving ability 
+* Excellent teamwork skills
+* Communication and interpersonal skills
 
 
 IT skills
