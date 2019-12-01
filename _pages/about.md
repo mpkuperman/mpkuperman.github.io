@@ -52,7 +52,7 @@ redirect_from:
 
 I work as a Quantitative analyst at [CRISIL](https://www.crisil.com/en/home/our-businesses/grna/risk-and-analytics.html) doing model and software development for pricing and risk management of Equity and Hybrid exotic financial derivatives.
 
-Before joining CRISIL I have studied Physics at University of Buenos Aires, and Finance at University of San Andres.
+Before joining CRISIL I have studied Physics at University of Buenos Aires and Finance at University of San Andres.
 
 I have strong background in problem modelling, statistics, mathematical finance, data analysis, numerical techniques and programming.
 
