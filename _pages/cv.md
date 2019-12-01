@@ -25,14 +25,18 @@ convergence tests and stress testing.
   * Development of software for pricing financial derivatives. 
 
   
-Skills
+Personal skills
 ======
 * Initiative and leadership in research and development projects.
 * Analytical and critical reasoning.
 * Inventiveness and strong problem-solving ability. 
 * Excellent teamwork skills.
-* Communication and interpersonal skills. 
-* Programming: 
+* Communication and interpersonal skills.
+
+
+IT skills
+======
+* Programming languages: 
   * Python
   * Julia Language
   * Matlab
