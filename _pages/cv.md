@@ -18,14 +18,18 @@ Education
 Work experience
 ======
 * CRISIL, Quantitative Analyst, January 2018-March 2020:
-  * Price and risk management of Equity and Hybrid exotic financial derivatives
-  * Execution of calibration, benchmarking, computational performance, hedging, limiting cases, stability,
-convergence tests and stress testing
-  * Responsible for technical documentation and executive summary report
-  * Development of software for pricing financial derivatives.
-  
+  * Consultant for Tier-1 US investment bank - Equity and Hybrids Group:
+    * Price and risk management of Equity and Hybrid exotic financial derivatives
+    * Execution of calibration, benchmarking, computational performance, hedging, limiting cases, stability,
+      convergence tests and stress testing
+    * Responsible for technical documentation and executive summary report
+    
 * CRISIL, Senior Quantitative Analyst, April 2020-Present:
-
+  * R&D Team:
+    * Development and design of software for pricing financial derivatives.
+    * Development and testing of Interest Rate models.
+    * Development and testing of Term Structure algorithms.
+    
   
 Personal skills
 ======
