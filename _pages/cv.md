@@ -26,10 +26,8 @@ Work experience
     
 * CRISIL, Senior Quantitative Analyst, April 2020-Present:
   * R&D Team:
-    * Development and design of software for pricing financial derivatives.
-    * Development and testing of Interest Rate models.
-    * Development and testing of Term Structure algorithms.
-    
+    * Design, development and testing software for pricing financial derivatives
+    * Research, design, development and testing about Monte Carlo algorithms, Interest Rate models, Term Structure models, Machine Learning      and Deep Learning algorithms in finance
   
 Personal skills
 ======
