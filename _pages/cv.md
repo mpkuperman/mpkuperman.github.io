@@ -42,7 +42,7 @@ IT skills
 ======
 * Programming languages: 
   * Python
-  * Julia Language
+  * Julia 
   * Matlab
   * Mathematica
 
