@@ -54,5 +54,5 @@ IT skills
 Languages
 ======
 * Spanish: Native speaker
-* English: Advanced
+* English: Fluent
 
