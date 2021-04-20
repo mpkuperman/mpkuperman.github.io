@@ -54,6 +54,12 @@ IT skills
 
 * Document preparation systems:
   * Latex
+  
+* Machine Learning packages:
+  * Keras
+  * Tensorflow
+  * Flux.Jl
+  
 
 Languages
 ======
