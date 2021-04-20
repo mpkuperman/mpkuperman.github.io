@@ -52,7 +52,8 @@ IT skills
 * Version control systems: 
   * Git
 
-* Latex
+* Document preparation systems:
+  * Latex
 
 Languages
 ======
