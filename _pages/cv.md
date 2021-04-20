@@ -19,16 +19,19 @@ Work experience
 ======
 * CRISIL, Quantitative Analyst, January 2018-March 2020:
   * Consultant for Tier-1 US investment bank - Equity and Hybrids Group:
-    * Price and risk management of Equity and Hybrid exotic financial derivatives
+    * Price and risk management of Equity and Hybrid exotic financial derivatives.
     * Execution of calibration, benchmarking, computational performance, hedging, limiting cases, stability,
-      convergence tests and stress testing
-    * Responsible for technical documentation and executive summary report
+      convergence tests and stress testing.
+    * Responsible for technical documentation and executive summary report.
     
 * CRISIL, Senior Quantitative Analyst, April 2020-Present:
-  * R&D Team:
-    * Design, development and testing software for pricing financial derivatives
-    * Research, design, development and testing about Monte Carlo algorithms, Interest Rate models, Term Structure models, Machine Learning      and Deep Learning algorithms in finance
-  
+  * R&D Team: Development of a high-performance library designed to achieve fast and advanced quantitative finance calculations, including:
+    * Affine short rate models.
+    * Quadratic short rate models.
+    * Libor Market models.
+    * Heath Jarrow Morton framework.
+    * Interest rate term structure algorithms such as Bootstrapping and Hagan and West.
+
 Personal skills
 ======
 * Initiative and leadership in research and development projects
