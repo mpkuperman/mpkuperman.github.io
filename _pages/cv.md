@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.Sc in Physics, University of Buenos Aires, 2018
-* Major in Finance, University of San Andres, 2017
-
-
 Work experience
 ======
 * CRISIL, Quantitative Analyst, January 2018-March 2020:
@@ -31,6 +25,12 @@ Work experience
     * Libor Market models.
     * Heath Jarrow Morton framework.
     * Interest rate term structure algorithms such as Bootstrapping and Hagan and West.
+
+Education
+======
+* M.Sc in Physics, University of Buenos Aires, 2018
+* Major in Finance, University of San Andres, 2017
+
 
 Personal skills
 ======
