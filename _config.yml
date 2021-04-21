@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martín Kuperman"
 title_separator          : "-"
 name                     : &name "Martín Kuperman"
-description              : &description "Physicist/Quantitative analyst"
+description              : &description "MSc. Physics - Quant"
 url                      : https://mpkuperman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpkuperman/mpkuperman.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Martín Kuperman"
   avatar           : "martin_kuperman.png"
-  bio              : "Physicist/Quant analyst"
+  bio              : "MSc. Physics - Quant"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "mpkuperman@gmail.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
