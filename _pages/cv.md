@@ -12,7 +12,8 @@ redirect_from:
 Work experience
 ======
 
-* CRISIL
+* **CRISIL**
+  
 
   * Senior Quantitative Analyst, April 2020-Present:
     * R&D Team: Development of a high-performance library designed to achieve fast and advanced quantitative finance calculations, including:
