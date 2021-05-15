@@ -1,15 +1,12 @@
 ---
 title: 'How to speed up python code?'
 date: 2021-05-14
-permalink: /posts/2021/05/blog-post-1/
+permalink: /posts/2021/05/How to speed up python code?/
 tags:
   - python
   - speed
   
 ---
-
-How to speed up python code?
-======
 
 Hello everybody!.
 
