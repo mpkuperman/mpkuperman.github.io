@@ -50,9 +50,32 @@ redirect_from:
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I work as a Senior Quantitative analyst at [CRISIL](https://www.crisil.com/en/home/our-businesses/grna/risk-and-analytics.html) doing model and software development for pricing and risk management of Equity and Hybrid exotic financial derivatives.
+I am a professional with 4+ years of experience in problem modelling, statistics, quantitative finance, data analysis, numerical techniques and programming.
 
-Before joining CRISIL I have studied Physics at University of Buenos Aires and Finance at University of San Andres.
+Before starting my professional career I have studied Physics at University of Buenos Aires and Finance at University of San Andres.
 
-I have strong background in problem modelling, statistics, mathematical finance, data analysis, numerical techniques and programming.
+My technical skills include:
+
+Programming Languages:
+- Python
+- Julia
+- Matlab
+- C/C++
+
+Version control systems:
+- Git
+
+Document preparation systems:
+- Latex
+
+Machine Learning:
+- Keras
+- Tensorflow
+- Flux.Jl
+- MLib
+- Scikit-learn
+
+Data base:
+- SQL
+- PySpark
 
