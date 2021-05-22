@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martín Kuperman"
 title_separator          : "-"
 name                     : &name "Martín Kuperman"
-description              : &description "Quantitative Leader at fyo - MSc. in Physics"
+description              : &description "Quantitative Leader at fyo"
 url                      : https://mpkuperman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpkuperman/mpkuperman.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Martín Kuperman"
   avatar           : "martin_kuperman.png"
-  bio              : "Quantitative Leader at fyo - MSc. in Physics"
+  bio              : "Quantitative Leader at fyo"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           :
