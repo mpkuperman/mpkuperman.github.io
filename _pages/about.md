@@ -56,26 +56,10 @@ Before starting my professional career I have studied Physics at University of B
 
 My technical skills include:
 
-Programming Languages:
-- Python
-- Julia
-- Matlab
-- C/C++
+- Programming Languages: Python, Julia, Matlab, C/C++.
+- Version control systems: Git.
+- Document preparation systems: Latex.
+- Machine Learning: Keras, Tensorflow, Flux.Jl, Scikit-learn, PySpark.
+- Data base: SQL.
 
-Version control systems:
-- Git
-
-Document preparation systems:
-- Latex
-
-Machine Learning:
-- Keras
-- Tensorflow
-- Flux.Jl
-- MLib
-- Scikit-learn
-
-Data base:
-- SQL
-- PySpark
 
