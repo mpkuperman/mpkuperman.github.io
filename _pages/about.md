@@ -54,6 +54,8 @@ I am a professional with 4+ years of experience in problem modelling, statistics
 
 Before starting my professional career I have studied Physics at University of Buenos Aires and Finance at University of San Andres.
 
+I am an EU citizen, eligible to work in EU.
+
 My technical skills include:
 
 - Programming Languages: Python, Julia, Matlab, C/C++.
