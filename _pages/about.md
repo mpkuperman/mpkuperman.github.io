@@ -61,7 +61,7 @@ My technical skills include:
 - Programming Languages: Python, Julia, Matlab, C/C++.
 - Version control systems: Git.
 - Document preparation systems: Latex.
-- Machine Learning: Keras, Tensorflow, Flux.Jl, Scikit-learn, PySpark.
+- Machine Learning: Keras, Tensorflow, Flux.jl, Scikit-learn, PySpark.
 - Data base: SQL.
 
 
