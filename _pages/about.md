@@ -50,14 +50,12 @@ redirect_from:
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 
-I am a professional with 4+ years of experience in problem modelling, statistics, quantitative finance, data analysis, numerical techniques and programming.
+I am a professional with 4+ years of experience in problem modelling, statistics, quantitative finance, data science, numerical techniques and programming.
 
 Before starting my professional career I have studied Physics at University of Buenos Aires and Finance at University of San Andres.
 
-I am an EU citizen, eligible to work in EU.
 
 My technical skills include:
-
 - Programming Languages: Python, Julia, Matlab, C/C++.
 - Version control systems: Git.
 - Document preparation systems: Latex.
@@ -65,3 +63,4 @@ My technical skills include:
 - Data base: SQL.
 
 
+Furthermore, I am an EU citizen, eligible to work in EU.
