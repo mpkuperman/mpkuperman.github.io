@@ -1,5 +1,5 @@
 ---
-title: "MarketRisk.jl"
+title: "[MarketRisk.jl](https://github.com/mpkuperman/MarketRisk.jl)"
 excerpt: "High-performance market risk measures for your portfolio."
 collection: portfolio
 ---
