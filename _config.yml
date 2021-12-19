@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Martín Kuperman"
   avatar           : "martin_kuperman.png"
-  bio              : "Quantitative Leader at fyo"
-  location         : "Buenos Aires, Argentina"
+  bio              : 
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           :
   googlescholar    :
