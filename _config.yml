@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martín Kuperman"
 title_separator          : "-"
 name                     : &name "Martín Kuperman"
-description              : &description "Quantitative Leader at fyo"
+description              : &description 
 url                      : https://mpkuperman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mpkuperman/mpkuperman.github.io"
