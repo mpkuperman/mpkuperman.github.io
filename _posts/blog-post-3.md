@@ -15,22 +15,14 @@ Finally the different defined SDEs will be benchmarked for adaptive and non-adap
 
 ## Stack vs Heap allocations: the key for speed
 ![image](https://i.stack.imgur.com/9c2VH.png)
+Stack vs Heap ordering representation. Image taken from https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap.
 
 ## Longstaff-Schwartz SDEs system
 
-$\begin{align}
-\frac{dx(t)}{dt} =& \kappa{_1} \left( \theta{_1} - x\left( t \right) \right) \\
-\frac{dy(t)}{dt} =& \kappa{_2} \left( \theta{_2} - y\left( t \right) \right)
-\end{align}$
+![image](https://user-images.githubusercontent.com/29048170/147709341-01becdd8-385d-410b-95d8-813f4c66e4c9.png)
 
-$\begin{equation}
-\left[
-\begin{array}{c}
-\sigma{_1} \sqrt{x\left( t \right)} \\
-\sigma{_2} \sqrt{y\left( t \right)} \\
-\end{array}
-\right]
-\end{equation}$
+![image](https://user-images.githubusercontent.com/29048170/147709286-c674e73a-12c3-479f-9761-c3be389a36eb.png)
+
 
 ```julia
 
