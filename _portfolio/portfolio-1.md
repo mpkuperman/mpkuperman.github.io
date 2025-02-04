@@ -1,6 +1,6 @@
 ---
 title: "[MarketRisk.jl](https://github.com/mpkuperman/MarketRisk.jl)"
-excerpt: "High-performance market risk measures for your portfolio."
+excerpt: "Market risk measures for your portfolio."
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
